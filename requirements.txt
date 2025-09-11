@@ -1,0 +1,6 @@
+fastapi>=1.7.5
+numpy>=3.10.4
+fastapi>=1.9.6
+requests>=1.12.3
+fastapi>=3.6.5
+pytest>=1.2.8
